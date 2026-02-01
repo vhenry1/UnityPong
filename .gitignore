@@ -7,10 +7,11 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-*.log
+/[Logs]/
+/[MemoryCaptures]/
+**/*.hidden
+**/*.swp
+*.UnityPackage
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
